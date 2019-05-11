@@ -43,7 +43,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="Island.png" height="400"/> <img src="SideLook.png" height="400" /> <img src="Table.png" height="400"/> <img src="Win.png" height="400"/>  <img src="screenshots/Lose.png" height="400"/>  
+<img src="screenshots/Island.png" height="400"/> <img src="screenshots/SideLook.png" height="400" /> <img src="screenshots/Table.png" height="400"/> <img src="screenshots/Win.png" height="400"/>  <img src="screenshots/Lose.png" height="400"/>  
 Getting Started
 ---------------
 
